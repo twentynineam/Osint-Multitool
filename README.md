@@ -1,2 +1,2 @@
-# Osint-Multitool
-Made by @Almighty.
+# Simple Private Osint Tool
+Made by @Almighty LOLZ1?!?!?!?!?
